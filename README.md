@@ -1,7 +1,7 @@
-# avalanche-laser-diode-driver
+# Avalanch Laser Diode Driver
 
 
-***Raspberry Pi Spectrometer***
+***Avalanch Laser Diode Driver***
 
 ![Screenshot](media/schem.png)
 
