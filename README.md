@@ -1,7 +1,7 @@
 # Avalanche Laser Diode Driver
 
 
-***Avalanch Laser Diode Driver***
+***Avalanche Laser Diode Driver***
 
 ![Screenshot](media/schem.png)
 
