@@ -12,6 +12,7 @@ M140  2W
 NUBM05/08 3.5W
 NUBM47 7W
 
+This design is inspired by this paper, among others, but uses a common transistor in Avalanche mode to do the work!
 https://www.researchgate.net/publication/321863583_Continuous_wave_laser_diodes_enable_fast_optoacoustic_imaging
 
 ![Screenshot](media/schem.png)
