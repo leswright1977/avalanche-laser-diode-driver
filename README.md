@@ -8,6 +8,8 @@ This is capable of driving Laser diodes with high peak power, and nanosecond pul
 
 There is a video on this topic here: https://youtu.be/3-htF8Jrixo
 
+![Screenshot](media/laserpulses.png)
+
 This has been verified with the following diodes:
 
 M140  2W
@@ -15,6 +17,7 @@ NUBM05/08 3.5W
 NUBM47 7W
 
 ***Requirements***
+
 To use this circuit, you will need a high voltage power supply.
 I used a small Nixie Tube inverter which are rally common on ebay. I replaced the onboard trimpot with a potentiomenter so that voltage could be varied from ~80v to 200v
 
