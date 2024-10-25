@@ -16,7 +16,7 @@ M140  2W
 NUBM05/08 3.5W
 NUBM47 7W
 
-This has also been teted with the NUGM04 520nm 1.35W Lasr diode!
+This has also been tested with the NUGM04 520nm 1.35W Laser diode!
 
 ![Screenshot](media/green.png)
 
